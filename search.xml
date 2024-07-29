@@ -23,17 +23,17 @@
     
     
     <entry>
-      <title>第一篇Hexo blog文章</title>
+      <title>建站小记~</title>
       <link href="/2024/07/28/di-yi-pian-hexo-blog-wen-zhang/"/>
       <url>/2024/07/28/di-yi-pian-hexo-blog-wen-zhang/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1>建站仪式，正式开始！👋 ✨ 💫</h1><h2 id="站长发表讲话：">站长发表讲话：</h2><p>先生们、女士们，经过几天的努力奋斗，本小站现已经初具雏形，可喜可贺！（鼓掌）。相信大家不禁会好奇一问，站长你为啥会突发奇想要整个个人博客捏，哈哈！其实想来也并非是突发奇想，站长之前就一直有想弄个个人博客的想法，只是一直没啥空，近期站长我在网上查资料时，时常点进各位大佬的个人博客，看到了很多很酷炫、很nice的博客，建立个人博客的想法愈发强烈，刚好站长我近期腾出了一些空闲时间，于是说干就干！起初呢，是想着整个服务器，直接在服务器上部署自己的博客，但查看了几篇教程后，觉得有那么些许的小繁杂，加上租个服务器多多少少有点小贵，于是乎便在几番深思熟虑后，选择采用 Hexo + Github Pages 的方式来组织本站。采取这种方式，主要还是考虑到操作起来比较简便，同时也利于后续的维护。博客不仅可以用来发表一些自己的所思所想、记录生活中的点点滴滴，同时还可以锻炼锻炼自己的编辑能力、提升自己，一篇好的博客也能为其他有需要的人提供一些帮助，何乐而不为呢？当然，建设初期，本站的内容还有待丰富，不过，不必担心！相信在站长的不懈努力下，小站的内容会愈加充实、丰富，就让我们拭目以待~~</p><h2 id="学习编程从输出“Hello-World！”开始，小站也是-💡">学习编程从输出“Hello World！”开始，小站也是 💡</h2><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;bits/stdc++.h&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    cout &lt;&lt; <span class="string">&quot;Hello World!&quot;</span> &lt;&lt; <span class="string">&quot;\n&quot;</span></span><br><span class="line">    </span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
       
       
       
         <tags>
             
-            <tag> test </tag>
+            <tag> introduction </tag>
             
         </tags>
       
